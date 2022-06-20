@@ -1,4 +1,4 @@
-# Hexagonal-Collection-View-Layout
+# Hexagonal-Collection-View-Layout-iOS
 
 Created a custom hexagonal layout using UICollectionView
 
